@@ -1,0 +1,16 @@
+[
+{
+  "modid": "woodenbucket",
+  "name": "Wooden Bucket",
+  "description": "Just a wooden bucket",
+  "version": "0.0.1-alpha",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["laxehdur"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
